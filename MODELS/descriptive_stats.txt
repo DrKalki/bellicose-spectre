@@ -1,0 +1,29 @@
+--- DESCRIPTIVE STATS ---
+Second-hand arms TIV (lagged):
+count    328.000000
+mean      31.052165
+std       62.440775
+min        0.000000
+25%        0.000000
+50%        6.000000
+75%       28.090000
+max      489.220000
+Name: second_hand_arms_tiv_lag, dtype: float64
+
+New arms TIV (lagged):
+count     328.000000
+mean      344.834116
+std       880.438726
+min         0.000000
+25%         3.847500
+50%        37.740000
+75%       238.300000
+max      8278.750000
+Name: new_arms_tiv_lag, dtype: float64
+
+Recurrence value counts:
+recurrence
+0    284
+1     44
+Name: count, dtype: int64
+
